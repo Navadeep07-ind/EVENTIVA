@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/venv/
+venv/
+.venv/
+env/
+
+# Build artifacts
+frontend/dist/
+dist/
+build/
+
+# Python cache & logs
+__pycache__/
+backend/__pycache__/
+backend/app/__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Databases & local storage
+*.db
+*.sqlite
+*.sqlite3
+backend/app.db
+backend/eventiva.db
+
+# Environment variables & secrets
+.env
+backend/.env
+frontend/.env.local
+
+# OS files
+.DS_Store
+Thumbs.db

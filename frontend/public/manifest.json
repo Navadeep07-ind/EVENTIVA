@@ -1,0 +1,16 @@
+{
+  "short_name": "EVENTIVA",
+  "name": "EVENTIVA - Universal Event & Poster Studio",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#030712",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait"
+}
